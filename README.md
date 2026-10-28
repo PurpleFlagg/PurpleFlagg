@@ -1,3 +1,4 @@
+![PurpleFlagg banner](banner.png)
 Hey, I'm Jasmine 💜🚩
 
 IT Manager by day, cybersecurity student by night: learning both sides of the flag.

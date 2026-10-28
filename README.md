@@ -3,7 +3,7 @@ Hey, I'm Jasmine 💜🚩
 
 IT Manager by day, cybersecurity student by night: learning both sides of the flag.
 
-I'm an IT Manager based in the Cincinnati area. I keep people, devices, and systems running smoothly, while building toward a career in cybersecurity. It's only right that my handle comes from purple teaming, as I've always had a natural curiosity to see how both systems are attacked and how they're defended.
+Based in the Cincinnati area, I keep people, devices, and systems running smoothly, while building toward a career in cybersecurity. It's only right that my handle comes from purple teaming, as I've always had a natural curiosity to see how both systems are attacked and how they're defended.
 
 🛠️ What I Do
 

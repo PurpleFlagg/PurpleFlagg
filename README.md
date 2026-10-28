@@ -7,15 +7,14 @@ Based in the Cincinnati area, I keep people, devices, and systems running smooth
 
 🛠️ What I Do
 
-🖥️ IT Manager at TruCare Provider Services (TCPS), an organization that provides services to individuals with developmental disabilities
 👥 Own end-to-end IT operations, including employee support, site installations, inventory, and on-call response
 🔄 Lead endpoint management
 ⚙️ Streamline IT workflows
 
 🎓 What I'm Learning
 
-🔐 Pursuing a B.S. in Cybersecurity at Southern New Hampshire University (SNHU)
-🚩 Practicing hands-on security skills through the SNHU Cyberleague Club and capture-the-flag challenges
+🔐 Pursuing a B.S. in Cybersecurity
+🚩 Practicing hands-on security skills
 📚 Working toward industry certifications
 
 🏅 Credentials & Community
